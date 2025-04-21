@@ -58,10 +58,9 @@ Built an intelligent app to monitor workouts and daily nutrition intake
 
 ## 📈 GitHub Stats
 
-![Nisarg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisargpatel03&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=nisargpatel03&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisargpatel03&layout=compact&theme=radical)
-
+![Nisarg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nisarg1810&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nisarg1810&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg1810&layout=compact&theme=radical)
 ---
 
 ## 📩 Let's Connect!
